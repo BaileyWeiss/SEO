@@ -16,3 +16,5 @@
 4. [How to Increase Email Efficiency: User Guide](source/Email_Efficiency.pdf)
 
 5. [Customer Data Platforms in Retail: Is a CDP Right for You?](source/CDP_Article.pdf)
+
+6. [The Benefits of Digital Transformation in Healthcare](source/Digital_Transformation.pdf)
