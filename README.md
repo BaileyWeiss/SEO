@@ -11,6 +11,8 @@
 
 2. [AI in Data Analytics: What You Need to Know and How to Use It](source/AI_Article.pdf)
 
-3. [Digital Health Trends in 2023]()
+3. [Digital Health Trends in 2023](source/Digital_Health_Trends.pdf)
 
-4. [Client4 README.md]()
+4. [How to Increase Email Efficiency: User Guide](source/Email_Efficiency.pdf)
+
+5. [Customer Data Platforms in Retail: Is a CDP Right for You?](source/CDP_Article.pdf)
