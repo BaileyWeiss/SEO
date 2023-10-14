@@ -4,14 +4,13 @@
 
 *My Works:*
 
-*Note: To show my work while also preserving the anonymity of my previous clients, throughout the articles, anywhere that mentions the name of the clients have been replaced with “This Company”. These links will redirect you to my own Google Documents.*
+*Note: To show a few of my works while also preserving the anonymity of my previous clients, throughout the articles, anywhere that mentions the name of the clients have been replaced with “This Company”.*
 
 
-1. [The Importance of Healthcare Data Interoperability](doc:https://docs.google.com/document/d/1hxSbTrFMjTlVcHBCDDlwPxOVOSwqieSK5WNlDJrR_LY/edit?usp=sharing)
+1. [The Importance of Healthcare Data Interoperability](source/Healthcare_Article.pdf)
 
-2. [Client2 README.md](Client2/README.md "My Client2 README.md file")
+2. [AI in Data Analytics: What You Need to Know and How to Use It](source/AI_Article.pdf)
 
-3. [Client3 README.md](Client3/README.md "My Client3 README.md file")
+3. [Digital Health Trends in 2023]()
 
-4. [Client4 README.md](Client4/README.md "My Client4 README.md file")
-
+4. [Client4 README.md]()
