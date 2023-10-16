@@ -1,4 +1,4 @@
-# Search Engine Optimization Published Works
+# Technical Writing Published Works
 
 ## Bailey Weiss
 
